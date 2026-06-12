@@ -1,0 +1,4 @@
+output/
+dist/
+build.bat
+test/
